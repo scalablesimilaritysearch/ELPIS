@@ -65,4 +65,8 @@ $ ./Release/ELPIS --queries queries --queries-size size --index-path index_path 
  + k: Number of nearest neighbors answers for each query.
  + bw: Beamwidth used during graphs search.
  + maxvl: Maximum number of leaves to search for each query. 
- 
+
+ ## Version and next updates
+
+This ELPIS version is the original code used to conduct produce numbers for ELPIS paper(2022)
+A new 2,0 version with faster search and higher throughput (Inter Query Search) will be soon released. Stay tuned!
